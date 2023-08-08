@@ -1,0 +1,3 @@
+*.pyc
+/prusik
+/game/server/evennia.db3-journal
