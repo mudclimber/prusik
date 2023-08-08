@@ -8,3 +8,9 @@ This passes through the [relay](https://github.com/mudclimber/relay) daemon as a
 
 The idea behind this is to show you how easy it is to take a TCP endpoint and point it to the Hub for
 Twitch authentication for free!
+
+# Demo
+
+[alpha.mudclimber.dev](https://alpha.mudclimber.dev)
+
+(More info about the entire initiative on the [main page](https://mudclimber.dev))
